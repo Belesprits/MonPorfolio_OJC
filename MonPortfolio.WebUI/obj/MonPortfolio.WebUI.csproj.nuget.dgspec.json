@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPortfolio.WebUI\\MonPortfolio.WebUI.csproj": {}
+  },
+  "projects": {
+    "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\MonPorfolio.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\MonPorfolio.Data.csproj",
+        "projectName": "MonPorfolio.Data",
+        "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\MonPorfolio.Data.csproj",
+        "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
+        "outputPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj": {
+                "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj",
+        "projectName": "MonPorfolio.Logic",
+        "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj",
+        "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
+        "outputPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPortfolio.WebUI\\MonPortfolio.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPortfolio.WebUI\\MonPortfolio.WebUI.csproj",
+        "projectName": "MonPortfolio.WebUI",
+        "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPortfolio.WebUI\\MonPortfolio.WebUI.csproj",
+        "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
+        "outputPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPortfolio.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\MonPorfolio.Data.csproj": {
+                "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.data\\MonPorfolio.Data.csproj"
+              },
+              "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj": {
+                "projectPath": "D:\\_Repository\\MonPortfolio_OJC\\MonPorfolio_OJC\\MonPorfolio.Logic\\MonPorfolio.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
